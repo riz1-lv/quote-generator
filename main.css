@@ -72,7 +72,7 @@ body {
 .button:hover{
     opacity: 0.9;
 }
-#tweet-quote,#tumblr-quote,#reddit-quote {
+#tweet-quote {
       float: left;
       padding: 0px;
       padding-top: 8px;
